@@ -1,14 +1,12 @@
 body {
     font-family: arail, sans serif;
     background-color: #a1a9b8;
-    display: flex;
     justify-content: center;
     padding: 20px;
     min-height: 100vh;
 }
 
 .container {
-    width: 320px;
     display: flex;
     flex-direction: column;
     gap: 10px;
